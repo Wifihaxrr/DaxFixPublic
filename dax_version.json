@@ -1,7 +1,7 @@
 {
     "version": "1.2.0",
-    "download_url": "https://github.com/your-username/your-repo/releases/download/v1.2.0/DAX-Diagnostics-1.2.0.exe",
+    "download_url": "https://github.com/Wifihaxrr/DaxFixPublic/raw/refs/heads/main/DAX-Diagnostics.exe",
     "release_notes": "Fixed network detection issues and improved proxy handling.",
     "required_update": false,
-    "min_required_version": "1.0.0"
+    "min_required_version": "1.2.0"
 }
