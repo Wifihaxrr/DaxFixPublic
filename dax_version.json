@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "download_url": "https://github.com/Wifihaxrr/DaxFixPublic/raw/refs/heads/main/DAX-Diagnostics.exe",
     "release_notes": "Fixed network detection issues and improved proxy handling.",
     "required_update": false,
